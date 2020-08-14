@@ -1,0 +1,25 @@
+_repo: Georgia-s-Stone-Mountain_62843
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Neal, Willard
+    gutenberg_agent_id: '52155'
+    url: http://www.gutenberg.org/2009/agents/52155
+description: ''
+gutenberg_issued: '2020-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62843'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Stone Mountain (Ga.)'
+- !lcsh 'Stone Mountain Memorial (Ga.)'
+- !lcsh 'Geology -- Georgia -- Stone Mountain'
+- GITenberg
+tableOfContents: Carving -- History -- Flora -- Geology.
+title: Georgia's Stone Mountain
+url: http://www.gutenberg.org/ebooks/62843
